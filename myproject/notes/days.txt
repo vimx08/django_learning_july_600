@@ -1,0 +1,7 @@
+1. project Setup (24 July 2024)
+
+2. WSGI => Web server Gateway Interface
+ASGI => Asynchronous Server Gateway Interface
+
+
+They are the gateway for outer web to your django app.
